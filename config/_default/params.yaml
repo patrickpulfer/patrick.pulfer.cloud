@@ -1,0 +1,70 @@
+############################
+## Author
+############################
+
+author:
+  name: Patrick Pulfer
+  image: patrick.jpg
+  greeting: ""
+  icon: ":wave:"
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/patrickpulfer/
+  # - link: https://github.com/patrickpulfer/
+  # - website: test
+  # - x-twitter: 
+  - mastodon: https://mastodon.ie/@ppulfer
+  # - linkedin: 
+  # - instagram: 
+  # - reddit: 
+  # - telegram: 
+  # - whatsapp: 
+  # - signal: 
+  # - codepen: 
+  # - dev: 
+  # - email: 
+  - discord: https://discordapp.com/users/530397886861803520
+  # - orcid: 
+  # - slack: 
+  # - stack-overflow: 
+  # - twitch: 
+  # - patreon: 
+  # - soundcloud: 
+  # - dribbble: 
+  # - stack-exchange: 
+  # - tiktok: 
+  # - youtube: 
+  # - keybase: 
+  # - flickr: 
+  # - tumblr: 
+  # - kickstarter: 
+  # - snapchat:
+  # - bluesky: 
+  # - bitbucket: 
+  # - bandcamp: 
+  # - etsy: 
+  # - spotify: 
+  # - pinterest: 
+  # - strava: 
+  # - untappd: 
+  # - skype: 
+  # - medium: 
+  # - foursquare: 
+  # - apple: 
+  # - amazon:
+  # - google:
+  # - paypal:
+  # - windows:
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: Patrick Pulfer
+description: "🐧 enthusiast"
+images:
+  - patrick.jpg

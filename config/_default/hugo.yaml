@@ -1,0 +1,15 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: "https://patrick.pulfer.cloud"
+title: Patrick Pulfer.Cloud
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ["taxonomy", "term"]
+languageCode: "en-us"
+enableRobotsTXT: true
